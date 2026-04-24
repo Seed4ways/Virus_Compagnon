@@ -9,7 +9,9 @@
 
 # Projet Virus Compagnon:
   Projet universitaire:
-    En langage C, Créer 3 programme que nous infecterons à l'aide d'un 4ème. 
+    En langage C:
+      - Créer 3 programme cible avec GUI. 
+      - Créer un programme Mediaplayer, un malware qui infectera les programmes cibles.
 
 ## Logique du Virus 
   La charge virale est dissimuler dans un programme Mediaplayer (capable de lire des images). 
@@ -17,7 +19,8 @@
   Les Bibliothéques utilisé sont:
       - SDL2
       - SDL2_ttl
-      - stb (pour gérer les images) requière stb_image.h : https://github.com/nothings/stb/blob/master/stb_image.h (déja dans le fichier include du projet)
+      - stb (pour gérer les images) requière stb_image.h : https://github.com/nothings/stb/blob/master/stb_image.h 
+        (déja dans le fichier include du projet)
       -
       -
 # Setup 
